@@ -1,6 +1,10 @@
+<br />
+     <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
+<br />
+
 # iPhone 15 Website
 
-A responsive, interactive 3D showcase of the iPhone 15 built using React, Tailwind CSS, Three.js, GSAP, and Vite for fast development and optimized build performance.
+A sleek and responsive iPhone 15 showcase built with React and styled using Tailwind CSS integrates immersive 3D elements through Three.js and animations powered by GSAP ensuring smooth performance with Vite for a fast development environment.
 
 ## Demo
 
