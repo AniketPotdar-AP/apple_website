@@ -1,8 +1,45 @@
-# React + Vite
+# iPhone 15 Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, interactive 3D showcase of the iPhone 15 built using React, Tailwind CSS, Three.js, GSAP, and Vite for fast development and optimized build performance.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://iphone15-web.netlify.app/
+
+## Features
+
+- **Interactive 3D model** : View the iPhone 15 from different angles with Three.js.
+- **Smooth animations** : Elegant transitions and effects powered by GSAP.
+- **Responsive design** : Built with Tailwind CSS to ensure a fully responsive and modern UI.
+- **Optimized build** : Powered by Vite for fast development and build times.
+
+## Tech Stack
+
+- **React** : JavaScript library for building user interfaces.
+- **Tailwind CSS** : Utility-first CSS framework for styling.
+- **Three.js** : JavaScript library for 3D rendering and animations.
+- **GSAP** : Animation library for complex animations and transitions.
+- **Vite** : Next-generation, fast build tool.
+
+## Installation
+
+#### 1. Clone the repository
+
+```bash
+git clone https://github.com/AniketPotdar-AP/apple_website.git
+cd iphone-15-showcase
+```
+
+#### 2. Install dependencies
+
+```bash
+npm install
+```
+
+#### 3. Run the development server
+
+```bash
+npm run dev
+```
+
+This will start the application on http://localhost:5173/.
