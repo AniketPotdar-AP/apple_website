@@ -3,7 +3,7 @@ import gsap from "gsap";
 import React, { useEffect, useState } from "react";
 import { heroVideo, smallHeroVideo } from '../utils'
 
-const Hero = () => {
+const HeroSection = () => {
 
     const [videoSrc, setVideoSrc] = useState(window.innerWidth < 760 ? smallHeroVideo : heroVideo)
 
@@ -54,6 +54,6 @@ const Hero = () => {
             </div>
         </section>
     );
-};
+}
 
-export default Hero;
+export default HeroSection
